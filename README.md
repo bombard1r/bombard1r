@@ -1,6 +1,6 @@
-## Hi there 👋
+# About me:
 
-Im currently studying to get my first job in it...
+Im studying to become a developer full time.
 
 <!--
 **bombard1r/bombard1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
