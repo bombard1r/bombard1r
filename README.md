@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Im currently studying to get my first job in it...
+
 <!--
 **bombard1r/bombard1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
